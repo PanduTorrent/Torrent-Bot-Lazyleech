@@ -92,3 +92,4 @@ testwatermark
 - This Repo is meant for small groups.
 - This repo is not meant to deploy in Heroku.
 - This Repo is licenced under [AGPL](https://github.com/ShinchanNohara1/Torrent-Bot-Lazyleech/blob/Master/LICENSE) that means you have to share this repo if anyone ask.
+## DEPLOY >:_   https://heroku.com/deploy
